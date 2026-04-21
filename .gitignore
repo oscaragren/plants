@@ -1,0 +1,17 @@
+# Build output
+/build/
+
+# CMake generated files
+/CMakeFiles
+/CMakeCache.txt
+/cmake_install.cmake
+/compile_commands.json
+/Makefile
+
+# ESP-IDF generated / local config
+sdkconfig.old
+
+# OS / editor noise
+.DS_Store
+.vscode/
+.idea/
